@@ -1,0 +1,47 @@
+﻿  pch.cpp
+  학생 회원가입.cpp
+c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(77): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(77): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(77): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(77): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(81): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(81): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(81): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(81): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(85): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(85): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(85): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(85): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(89): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(89): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(89): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(89): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(93): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(93): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(93): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(93): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(97): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(97): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(97): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(97): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(101): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(101): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(101): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(101): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(105): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(105): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(105): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(105): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(109): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(109): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(109): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(109): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(113): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(113): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(113): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(113): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(117): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(117): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(117): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\administrator\source\repos\학생 회원가입\학생 회원가입\학생 회원가입.cpp(117): note: 이 인수는 버퍼 크기로 사용됩니다.
+  학생 회원가입.vcxproj -> C:\Users\Administrator\source\repos\학생 회원가입\Debug\학생 회원가입.exe

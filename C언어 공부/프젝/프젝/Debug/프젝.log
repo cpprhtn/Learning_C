@@ -1,0 +1,9 @@
+﻿  프젝.cpp
+c:\users\administrator\source\repos\프젝\프젝\프젝.cpp(85): error C2451: 'void' 형식의 조건식은 올바르지 않습니다.
+  c:\users\administrator\source\repos\프젝\프젝\프젝.cpp(85): note: void 형식의 식을 다른 형식으로 변환할 수 없습니다.
+c:\users\administrator\source\repos\프젝\프젝\프젝.cpp(117): error C2065: 'r_map': 선언되지 않은 식별자입니다.
+c:\users\administrator\source\repos\프젝\프젝\프젝.cpp(132): error C2065: 'r_map': 선언되지 않은 식별자입니다.
+c:\users\administrator\source\repos\프젝\프젝\프젝.cpp(169): error C2556: 'int StageClearCheck(void)': 오버로드된 함수가 'void StageClearCheck(void)'과(와) 반환 형식만 다릅니다.
+  c:\users\administrator\source\repos\프젝\프젝\프젝.cpp(54): note: 'StageClearCheck' 선언을 참조하십시오.
+c:\users\administrator\source\repos\프젝\프젝\프젝.cpp(169): error C2371: 'StageClearCheck': 재정의. 기본 형식이 다릅니다.
+  c:\users\administrator\source\repos\프젝\프젝\프젝.cpp(54): note: 'StageClearCheck' 선언을 참조하십시오.
