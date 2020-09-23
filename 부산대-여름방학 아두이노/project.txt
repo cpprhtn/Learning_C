@@ -1,0 +1,75 @@
+집 형태 모델링
+
+자료
+https://1boon.kakao.com/bloter/307031
+
+기본서비스
+가스-불
+큰소리-ex 아기 울음소리  예외-TV소리
+택배알림
+움직임 감지-아기의 위치알려주기&오래동안 움직임감지x->노인들 고독사?
+`
+
+
+시각장애인을 위한 서비스
+1. 청각- 앱인벤터 읽기기능- 화재, 택배, 아기들 관련
+2. 거리조절- ex) 벽 부딛힐 수 있음
+
+청각장애인을 위한 서비스
+1. 진동
+2. 스마트폰 실시간 알림
+3. 소리를 string화 시켜 문자 텍스트로 보여주기.
+
+
+
+코딩
+가스센서
+
+int GasPin = 12;                        // 가스센서 입력을 위한 아날로그 핀
+ 
+void setup() {
+ 
+  pinMode(GasPin ,INPUT);               // 아날로그 핀 A0를 입력모드로 설정
+  Serial.begin(9600);
+ 
+}
+ 
+ 
+void loop() {
+ 
+  Serial.println(analogRead(GasPin));   // 가스센서로부터 아날로 데이터를 받아와 시리얼 모니터로 출력함
+  delay(10);  // 10ms 대기
+ 
+} 
+https://m.blog.naver.com/PostView.nhn?blogId=icbanq&logNo=220884005756&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+[박신영] [오전 10:12] https://m.blog.naver.com/PostView.nhn?blogId=eduino&logNo=220858628169&proxyReferer=&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+http://blog.naver.com/PostView.nhn?blogId=icbanq&logNo=220884005756&categoryNo=29&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
+
+사운드센서
+
+int SOUND_SENSOR = 13;
+int led = 7;
+int threshold = 25; //감도조절
+int Sensor_value; 
+ 
+void setup() {                
+  Serial.begin(9600); // 시리얼모니터 출력
+  pinMode(SOUND_SENSOR, INPUT);
+  pinMode(led, OUTPUT);     
+}
+ 
+void loop() {  
+  Sensor_value = analogRead(13);   // Analog PIN A0에서 입력값을 읽어와서 Sensor_value에 저장
+  Serial.println(Sensor_value);   // 시리얼모니터에 감도표시
+  delay(10);
+  
+  if(Sensor_value >= threshold){
+    digitalWrite(led, HIGH); //Turn ON Led
+  }  
+  else{
+    digitalWrite(led, LOW); // Turn OFF Led
+  }
+}
+
+
+https://m.blog.naver.com/PostView.nhn?blogId=eduino&logNo=221182896944&proxyReferer=https%3A%2F%2Fwww.google.com%2F
